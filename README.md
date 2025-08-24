@@ -4,15 +4,15 @@
 
 <h1>Olá! 👋 Me chamo Eric</h1>
 
-<div style="height:20px;"></div>
+###
 
-Atualmente, sou estudante de Engenharia de Computação na UFSM em período integral e, ao mesmo tempo, estou cursando o Técnico em Informática para Internet no período noturno no Politécnico da mesma instituição.
+<p align="left">Atualmente, sou estudante de Engenharia de Computação na UFSM em período integral e, ao mesmo tempo, estou cursando o Técnico em Informática para Internet no período noturno no Politécnico da mesma instituição.<br><br>Tenho grande interesse em Front-end, Back-end e Inteligência Artificial. Busco aprofundar meu conhecimento, com foco especial em agilizar processos demorados com a utilização de IA e criar sites responsivos.</p>
 
-Tenho grande interesse em Front-end, Back-end e Inteligência Artificial. Busco aprofundar meu conhecimento, com foco especial em agilizar processos demorados com a utilização de IA e criar sites responsivos.
+###
 
-<div style="height:20px;"></div>
+<h2 align="left">Minhas Competências</h2>
 
-## Minhas Competências
+###
 
 | Competência      | Nível de Proficiência |
 |------------------|-----------------------|
@@ -26,6 +26,12 @@ Tenho grande interesse em Front-end, Back-end e Inteligência Artificial. Busco 
 | Bootstrap        | 9/10                  |
 | MySQL            | 8/10                  |
 
+###
+
+<h2 align="left">Meus projetos</h2>
+
+- futuramente atualizo
+
+
 <div style="height:20px;"></div>
 
-## Coisas úteis que fiz
