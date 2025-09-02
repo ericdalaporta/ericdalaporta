@@ -30,7 +30,7 @@
 
 <h2 align="left">Meus projetos</h2>
 
-- - [Portal de Agendamento](https://ericdalaporta.github.io/sistema-gerenciamento-salas/)
+- [Portal de Agendamento](https://ericdalaporta.github.io/sistema-gerenciamento-salas/)
 
 
 <div style="height:20px;"></div>
