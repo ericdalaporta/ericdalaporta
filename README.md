@@ -30,7 +30,7 @@
 
 <h2 align="left">Meus projetos</h2>
 
-- futuramente atualizo
+- - [Sistema Acadêmico de Agendamentos de Salas](https://ericdalaporta.github.io/sistema-gerenciamento-salas/)
 
 
 <div style="height:20px;"></div>
