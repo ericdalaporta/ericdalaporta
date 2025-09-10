@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Atualmente, sou estudante de Engenharia de Computação na UFSM em período integral e, ao mesmo tempo, estou cursando o Técnico em Informática para Internet no período noturno no Politécnico da mesma instituição.<br><br>Tenho grande interesse em Front-end, Back-end e Inteligência Artificial. Busco aprofundar meu conhecimento, com foco especial em agilizar processos demorados com a utilização de IA e criar sites responsivos.</p>
+<p align="left">Atualmente, sou estudante de Engenharia de Computação na UFSM em período integral e, ao mesmo tempo, estou cursando o Técnico em Informática para Internet no período noturno no Politécnico da mesma instituição.<br><br>Tenho grande interesse em Front-end, Back-end e Inteligência Artificial. Busco aprofundar meu conhecimento, com foco especial em agilizar processos demorados com a utilização de IA, além de criar sites responsivos.</p>
 
 ###
 
