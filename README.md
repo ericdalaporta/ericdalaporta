@@ -31,7 +31,7 @@
 <h2 align="left">Meus projetos</h2>
 
 - [Sistema de Gerenciamento de Ambientes Acadêmicos - Portal de Agendamento
-](https://ericdalaporta.github.io/sistema-gerenciamento-salas/)
+](https://ericdalaporta.github.io/portal-de-agendamento/)
 - [Biblioteca Online Gratuita - Bookshelf](https://ericdalaporta.github.io/bookshelf/)
 
 
