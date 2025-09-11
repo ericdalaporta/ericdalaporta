@@ -32,7 +32,7 @@
 
 - [Sistema de Gerenciamento de Ambientes Acadêmicos - Portal de Agendamento
 ](https://ericdalaporta.github.io/sistema-gerenciamento-salas/)
-- [Biblioteca Gratuita - Bookshelf](https://ericdalaporta.github.io/bookshelf/)
+- [Biblioteca Online Gratuita - Bookshelf](https://ericdalaporta.github.io/bookshelf/)
 
 
 <div style="height:20px;"></div>
