@@ -30,7 +30,7 @@
 
 <h2 align="left">Meus projetos</h2>
 
-- [Sistema de Gerenciamento de Ambientes Acadêmicos - Portal de Agendamento
+- [Sistema de Gerenciamento de Ambientes Universitários - Portal de Agendamento
 ](https://ericdalaporta.github.io/portal-de-agendamento/)
 - [Biblioteca Online Gratuita - Bookshelf](https://ericdalaporta.github.io/bookshelf/)
 
