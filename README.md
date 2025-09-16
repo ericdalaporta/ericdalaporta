@@ -33,6 +33,8 @@
 - [Sistema de Gerenciamento de Ambientes Universitários - Portal de Agendamento
 ](https://ericdalaporta.github.io/portal-de-agendamento/)
 - [Biblioteca Online Gratuita - Bookshelf](https://ericdalaporta.github.io/bookshelf/)
+- [Buscador de Deputados Federais - Radar de Deputados](https://github.com/seu-usuario/radar-deputados)
+
 
 
 <div style="height:20px;"></div>
