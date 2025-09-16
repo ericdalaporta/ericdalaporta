@@ -30,11 +30,9 @@
 
 <h2 align="left">Meus projetos</h2>
 
-- [Sistema de Gerenciamento de Ambientes Universitários - Portal de Agendamento
-](https://ericdalaporta.github.io/portal-de-agendamento/)
+- [Sistema de Gerenciamento de Ambientes Universitários - Portal de Agendamento](https://ericdalaporta.github.io/portal-de-agendamento/)
 - [Biblioteca Online Gratuita - Bookshelf](https://ericdalaporta.github.io/bookshelf/)
-- [Buscador de Deputados Federais - Radar de Deputados](https://github.com/ericdalaporta/radar-deputados)
-
+- [Buscador de Deputados Federais - Radar de Deputados](https://ericdalaporta.github.io/radar-deputados/)
 
 
 <div style="height:20px;"></div>
