@@ -32,7 +32,7 @@
 
 - [Sistema de Gerenciamento de Ambientes Universitários - Portal de Agendamento](https://ericdalaporta.github.io/portal-de-agendamento/)
 - [Biblioteca Online Gratuita - Bookshelf](https://ericdalaporta.github.io/bookshelf/)
-- [Web Site para análise de mandatos presidenciais - PresiData BR (em produção](link)
+- [Web Site para análise de mandatos presidenciais - PresiData BR (em produção)](link)
 
 
 <div style="height:20px;"></div>
