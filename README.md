@@ -14,17 +14,18 @@
 
 ###
 
-| Competência      | Nível de Proficiência |
-|------------------|-----------------------|
-| C e C++          | 9/10                  |
-| Java             | 7/10                  |
-| Python           | 9/10                  |
-| HTML e CSS       | 10/10                 |
-| Angular          | 8/10                  |
-| Django           | 7/10                  |
-| React            | 9/10                  |
-| Bootstrap        | 9/10                  |
-| MySQL            | 8/10                  |
+| Competência   | Nível de Proficiência | Área            |
+| :------------ | :-------------------: | :-------------- |
+| HTML & CSS    |        10/10        | Front-end       |
+| React         |        9/10         | Front-end       |
+| Bootstrap     |        9/10         | Front-end       |
+| Angular       |        8/10         | Front-end       |
+| Python        |        9/10         | Back-end / IA   |
+| C e C++       |        9/10         | Back-end        |
+| Java          |        7/10         | Back-end        |
+| Django        |        7/10         | Back-end        |
+| MySQL         |        8/10         | Banco de Dados  |
+
 
 ###
 
