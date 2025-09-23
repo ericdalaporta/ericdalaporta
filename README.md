@@ -30,9 +30,10 @@
 
 <h2 align="left">Meus projetos</h2>
 
-- [Sistema de Gerenciamento de Ambientes Universitários - Portal de Agendamento](https://ericdalaporta.github.io/portal-de-agendamento/)
-- [Web Site para análise de Mandatos Presidenciais - PresiData BR (em produção)](https://ericdalaporta.github.io/PresiData-BR/)
 - [Biblioteca Online Gratuita - Bookshelf](https://ericdalaporta.github.io/bookshelf/)
+- [Sistema de Gerenciamento de Ambientes Universitários - Portal de Agendamento](https://ericdalaporta.github.io/portal-de-agendamento/)
+- [Meu Portfólio com temátioca de South Park - (em proudução)](https://ericdalaporta.github.io/portfolio/)
+- [Web Site para análise de Mandatos Presidenciais - PresiData BR (em produção)](https://ericdalaporta.github.io/PresiData-BR/)
 
 
 <div style="height:20px;"></div>
