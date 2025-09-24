@@ -35,7 +35,7 @@
 - [Meu Portfólio](https://ericdalaporta.github.io/portfolio/)
 - [Biblioteca Online Gratuita - Bookshelf](https://ericdalaporta.github.io/bookshelf/)
 - [Sistema de Gerenciamento de Ambientes Universitários - Portal de Agendamento](https://ericdalaporta.github.io/portal-de-agendamento/)
-- [Web Site para análise de Mandatos Presidenciais - PresiData BR (em produção)](https://ericdalaporta.github.io/PresiData-BR/)
+- [Web Site para análise de Mandatos Presidenciais - PresiData BR (em produção)](https://ericdalaporta.github.io/presidata-br/)
 
 
 <div style="height:20px;"></div>
