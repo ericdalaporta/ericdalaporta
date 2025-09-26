@@ -2,7 +2,7 @@
    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient:0:1976D2,20:42A5F5,50:90CAF9,100:673AB7&reversal=true" />
 </div>
 
-<h1>Olá! 👋 Me chamo Eric</h1>
+<h1>Olá! Me chamo Eric 💻</h1>
 
 ###
 
