@@ -36,8 +36,8 @@
 - [Biblioteca Online Gratuita - Bookshelf](https://ericdalaporta.github.io/bookshelf/)
 - [Sistema de Gerenciamento de Ambientes Universitários - Portal de Agendamento](https://ericdalaporta.github.io/portal-de-agendamento/)
 - [Web Site para análise de Mandatos Presidenciais - PresiData BR (em produção)](https://ericdalaporta.github.io/presidata-br/)
-- [Web Site para análise de Mandatos Presidenciais - PresiData BR (em produção)](https://github.com/ericdalaporta/pixel-plush)
-
+- [Loja virtual de Amigurumis - Pixel Plush (em produção)](https://github.com/ericdalaporta/pixel-plush)
+- [Sistema de um Lava Rápoido para Desktop - Lavacar (quase pronto)](https://github.com/ericdalaporta/lavacar-project)
 
 
 <div style="height:20px;"></div>
