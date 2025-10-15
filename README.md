@@ -1,6 +1,8 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient:0:A9A9A9,50:DCDCDC,100:FFFFFF&reversal=true" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient:0:7D90A6,100:B4C4D8&reversal=true" />
 </div>
+
+<div align="center">
 
 <h1 align="center">Olá! Me chamo Eric ☕</h1>
 
@@ -10,8 +12,10 @@ curso o Técnico em Informática para Internet no período noturno no Politécni
 Tenho grande interesse em Back-end e Inteligência Artificial, mas me desenrolo em Front-end também.
 Busco constantemente aprimorar minhas habilidades e desenvolver soluções que automatizem processos e criem experiências web elegantes e eficientes.
 </p>
-
-<h2 align="left">Minhas competências</h2>
+<br>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2w0NjFoMGt0MzgyazNoem8xMjExZGhqNWM0bW1na284dzZiODhxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46CiBK55iWo9VrKE/giphy.gif" width="450"/>
+<br><br>
+<h2 align="center">Minhas competências</h2>
 
 <table>
 <tr><th>Competência</th><th>Proficiência</th><th>Área</th></tr>
@@ -37,20 +41,25 @@ Busco constantemente aprimorar minhas habilidades e desenvolver soluções que a
 
 </table>
 
-<h2 align="left">Coisas úteis que já fiz</h2>
+</div>
+
+<h2>Coisas úteis que já fiz</h2>
 
 <ul>
-  <li><a href="https://ericdalaporta.github.io/portfolio/" target="_blank"><b>Meu Portfólio</b></a> – Um site minimalista apresentando meus projetos pessoais e contatos.</li>
-  <li><a href="https://ericdalaporta.github.io/bookshelf/" target="_blank"><b>Bookshelf</b></a> – Biblioteca online gratuita com design criado por mim.</li>
-  <li><a href="https://ericdalaporta.github.io/portal-de-agendamento/" target="_blank"><b>Portal de Agendamento</b></a> – Sistema para gerenciamento de ambientes universitários.</li>
-  <li><a href="https://ericdalaporta.github.io/presidata-br/" target="_blank"><b>PresiData BR</b></a> – Site de análise de mandatos presidenciais (em produção).</li>
-  <li><a href="https://github.com/ericdalaporta/pixel-plush" target="_blank"><b>Pixel Plush</b></a> – Loja virtual de amigurumis (em produção).</li>
-  <li><a href="https://github.com/ericdalaporta/lavacar-project" target="_blank"><b>Lavacar Project</b></a> – Sistema desktop para lava-rápido (em produção).</li>
+  <li><a href="https://ericdalaporta.github.io/portfolio/" target="_blank"><b>Meu Portfólio</b></a> – Um site minimalista apresentando meus projetos pessoais e contatos.</li>
+  <li><a href="https://ericdalaporta.github.io/bookshelf/" target="_blank"><b>Bookshelf</b></a> – Biblioteca online gratuita com design criado por mim.</li>
+  <li><a href="https://ericdalaporta.github.io/portal-de-agendamento/" target="_blank"><b>Portal de Agendamento</b></a> – Sistema para gerenciamento de ambientes universitários.</li>
+  <li><a href="https://ericdalaporta.github.io/presidata-br/" target="_blank"><b>PresiData BR</b></a> – Site de análise de mandatos presidenciais (em produção).</li>
+  <li><a href="https://github.com/ericdalaporta/pixel-plush" target="_blank"><b>Pixel Plush</b></a> – Loja virtual de amigurumis (em produção).</li>
+  <li><a href="https://github.com/ericdalaporta/lavacar-project" target="_blank"><b>Lavacar Project</b></a> – Sistema desktop para lava-rápido (em produção).</li>
 </ul>
 
+<div align="center">
 <h2 align="center">Estatísticas do GitHub</h2>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericdalaporta&show_icons=true&theme=default&include_all_commits=true&count_private=true&cache_seconds=3600"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericdalaporta&layout=compact&langs_count=7&theme=default&cache_seconds=3600"/>
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericdalaporta&show_icons=true&theme=default&include_all_commits=true&count_private=true&cache_seconds=3600"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericdalaporta&layout=compact&langs_count=7&theme=default&cache_seconds=3600"/>
+</div>
+
 </div>
