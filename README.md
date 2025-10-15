@@ -17,11 +17,11 @@ Busco constantemente aprimorar minhas habilidades e desenvolver soluções que a
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW0yMTBrMXJwejZvNHduaG0ycWVjN2RuZmp5N3E4MndqenJzY2duaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYurj3xjl91g23e/giphy.gif" width="400"/>
 
-<br><br>
+<br>
+
 
 <h2 align="center">Minhas competências</h2>
 
-<br>
 
 
 <table align="center">
@@ -42,11 +42,14 @@ Busco constantemente aprimorar minhas habilidades e desenvolver soluções que a
   <tr><td>Figma</td><td>⭐⭐⭐⭐⭐</td><td>Design UI/UX</td></tr>
 </table>
 
-<br>
+
+ <br>
+
 
 <h2 align="center">Coisas úteis que já fiz</h2>
 
-<br><br>
+ 
+<br>
 
 
 <table align="center">
@@ -79,12 +82,10 @@ Busco constantemente aprimorar minhas habilidades e desenvolver soluções que a
     <td>Sistema desktop para lava-rápido (em produção).</td>
   </tr>
 </table>
-
+ 
 <br>
 
-
-
-<h2 align="center">Estatísticas do GitHub</h2> <br><br>
+<h2 align="center">Estatísticas do GitHub</h2>  
 
 
 <div>
