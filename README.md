@@ -1,44 +1,56 @@
 <div align="center">
-   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient:0:1976D2,20:42A5F5,50:90CAF9,100:673AB7&reversal=true" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient:0:A9A9A9,50:DCDCDC,100:FFFFFF&reversal=true" />
 </div>
 
-<h1>Olá! Me chamo Eric 💻</h1>
+<h1 align="center">Olá! Me chamo Eric ☕</h1>
 
-###
+<p align="center">
+Atualmente, sou estudante de Engenharia de Computação na UFSM em período integral e, ao mesmo tempo,
+curso o Técnico em Informática para Internet no período noturno no Politécnico da mesma instituição.
+Tenho grande interesse em Back-end e Inteligência Artificial, mas me desenrolo em Front-end também.
+Busco constantemente aprimorar minhas habilidades e desenvolver soluções que automatizem processos e criem experiências web elegantes e eficientes.
+</p>
 
-<p align="left">Atualmente, sou estudante de Engenharia de Computação na UFSM em período integral e, ao mesmo tempo, estou cursando o Técnico em Informática para Internet no período noturno no Politécnico da mesma instituição.<br><br>Tenho grande interesse em Front-end, Back-end e Inteligência Artificial. Busco aprofundar meu conhecimento, com foco especial em agilizar processos demorados com a utilização de IA, além de criar sites responsivos.</p>
+<h2 align="left">Minhas competências</h2>
 
-###
+<table>
+<tr><th>Competência</th><th>Proficiência</th><th>Área</th></tr>
 
-<h2 align="left">Minhas Competências</h2>
+<tr><td>HTML, CSS e JavaScript</td><td>⭐⭐⭐⭐⭐</td><td>Front-end</td></tr>
+<tr><td>React</td><td>⭐⭐⭐⭐</td><td>Front-end</td></tr>
+<tr><td>Angular</td><td>⭐⭐⭐⭐</td><td>Front-end</td></tr>
+<tr><td>Tailwind e Boostrap</td><td>⭐⭐⭐⭐⭐</td><td>Front-end</td></tr>
 
-###
+<tr><td>Python</td><td>⭐⭐⭐⭐⭐</td><td>Back-end / IA</td></tr>
+<tr><td>Django</td><td>⭐⭐⭐</td><td>Back-end</td></tr>
+<tr><td>FastAPI</td><td>⭐⭐⭐</td><td>Back-end</td></tr>
 
-| Competência   | Nível de Proficiência | Área            |
-| :------------ | :-------------------: | :-------------- |
-| HTML & CSS    |        10/10        | Front-end       |
-| React         |        9/10         | Front-end       |
-| Bootstrap     |        9/10         | Front-end       |
-| Angular       |        7/10         | Front-end       |
-| Python        |        9/10         | Back-end / IA   |
-| C             |        9/10         | Back-end        |
-| C++           |        8/10         | Back-end        |
-| Java          |        7/10         | Back-end        |
-| Django        |        7/10         | Back-end        |
-| MySQL         |        8/10         | Banco de Dados  |
+<tr><td>C e C++</td><td>⭐⭐⭐⭐⭐</td><td>Back-end</td></tr>
+<tr><td>Java</td><td>⭐⭐⭐⭐</td><td>Back-end</td></tr>
 
+<tr><td>MySQL</td><td>⭐⭐⭐⭐⭐</td><td>Banco de Dados</td></tr>
+<tr><td>PostgreSQL</td><td>⭐⭐⭐⭐⭐</td><td>Banco de Dados</td></tr>
 
-###
+<tr><td>Git & GitHub</td><td>⭐⭐⭐⭐⭐</td><td>Controle de Versão</td></tr>
+<tr><td>Linux</td><td>⭐⭐⭐⭐⭐</td><td>Sistema Operacional</td></tr>
+<tr><td>Figma</td><td>⭐⭐⭐⭐⭐</td><td>Design UI/UX</td></tr>
 
-<h2 align="left">Meus projetos</h2>
+</table>
 
-- [Meu Portfólio](https://ericdalaporta.github.io/portfolio/)
-- [Biblioteca Online Gratuita - Bookshelf](https://ericdalaporta.github.io/bookshelf/)
-- [Sistema de Gerenciamento de Ambientes Universitários - Portal de Agendamento](https://ericdalaporta.github.io/portal-de-agendamento/)
-- [Web Site para análise de Mandatos Presidenciais - PresiData BR (em produção)](https://ericdalaporta.github.io/presidata-br/)
-- [Loja virtual de Amigurumis - Pixel Plush (em produção)](https://github.com/ericdalaporta/pixel-plush)
-- [Sistema de um Lava Rápoido para Desktop - Lavacar (quase pronto)](https://github.com/ericdalaporta/lavacar-project)
+<h2 align="left">Coisas úteis que já fiz</h2>
 
+<ul>
+  <li><a href="https://ericdalaporta.github.io/portfolio/" target="_blank"><b>Meu Portfólio</b></a> – Um site minimalista apresentando meus projetos pessoais e contatos.</li>
+  <li><a href="https://ericdalaporta.github.io/bookshelf/" target="_blank"><b>Bookshelf</b></a> – Biblioteca online gratuita com design criado por mim.</li>
+  <li><a href="https://ericdalaporta.github.io/portal-de-agendamento/" target="_blank"><b>Portal de Agendamento</b></a> – Sistema para gerenciamento de ambientes universitários.</li>
+  <li><a href="https://ericdalaporta.github.io/presidata-br/" target="_blank"><b>PresiData BR</b></a> – Site de análise de mandatos presidenciais (em produção).</li>
+  <li><a href="https://github.com/ericdalaporta/pixel-plush" target="_blank"><b>Pixel Plush</b></a> – Loja virtual de amigurumis (em produção).</li>
+  <li><a href="https://github.com/ericdalaporta/lavacar-project" target="_blank"><b>Lavacar Project</b></a> – Sistema desktop para lava-rápido (em produção).</li>
+</ul>
 
-<div style="height:20px;"></div>
+<h2 align="center">Estatísticas do GitHub</h2>
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericdalaporta&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericdalaporta&layout=compact&langs_count=7&theme=default"/>
+</div>
