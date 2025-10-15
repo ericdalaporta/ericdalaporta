@@ -15,7 +15,7 @@ Busco constantemente aprimorar minhas habilidades e desenvolver soluções que a
 
 <br>
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW0yMTBrMXJwejZvNHduaG0ycWVjN2RuZmp5N3E4MndqenJzY2duaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYurj3xjl91g23e/giphy.gif" width="440"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW0yMTBrMXJwejZvNHduaG0ycWVjN2RuZmp5N3E4MndqenJzY2duaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYurj3xjl91g23e/giphy.gif" width="300"/>
  <sub><i></i></sub>
 
  <p align="center"><i>“Ctrl+C e Ctrl+V é herança cultural do programador moderno.”</i></p>
