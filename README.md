@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<h1 align="center">Olá! Me chamo Eric ☕</h1>
+<h1 align="center">Olá! Me chamo Eric</h1>
 
 <p align="center">
 Atualmente, sou estudante de Engenharia de Computação na UFSM em período integral e, ao mesmo tempo,
