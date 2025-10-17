@@ -86,14 +86,3 @@ Busco constantemente aprimorar minhas habilidades e desenvolver soluções que a
  
 </table>
  
-<br>
-
-<h2 align="center">Estatísticas do GitHub</h2>  
-
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericdalaporta&show_icons=true&theme=default&include_all_commits=true&count_private=true&cache_seconds=3600"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericdalaporta&layout=compact&langs_count=7&theme=default&cache_seconds=3600"/>
-</div>
-
-</div>
