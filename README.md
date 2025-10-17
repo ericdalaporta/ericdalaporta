@@ -67,6 +67,10 @@ Busco constantemente aprimorar minhas habilidades e desenvolver soluções que a
     <td><a href="https://ericdalaporta.github.io/bookshelf/" target="_blank"><b>Bookshelf</b></a></td>
     <td>Biblioteca online gratuita com design criado por mim.</td>
   </tr>
+   <tr>
+    <td><a href="https://github.com/ericdalaporta/lavacar-project" target="_blank"><b>Lavacar Project</b></a></td>
+    <td>Sistema desktop para gerenciar lava-rápido.</td>
+  </tr>
   <tr>
     <td><a href="https://ericdalaporta.github.io/portal-de-agendamento/" target="_blank"><b>Portal de Agendamento</b></a></td>
     <td>Sistema para gerenciamento de ambientes universitários.</td>
@@ -79,10 +83,7 @@ Busco constantemente aprimorar minhas habilidades e desenvolver soluções que a
     <td><a href="https://github.com/ericdalaporta/pixel-plush" target="_blank"><b>Pixel Plush</b></a></td>
     <td>Loja virtual de amigurumis (em produção).</td>
   </tr>
-  <tr>
-    <td><a href="https://github.com/ericdalaporta/lavacar-project" target="_blank"><b>Lavacar Project</b></a></td>
-    <td>Sistema desktop para lava-rápido (em produção).</td>
-  </tr>
+ 
 </table>
  
 <br>
