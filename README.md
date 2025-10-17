@@ -68,7 +68,7 @@ Busco constantemente aprimorar minhas habilidades e desenvolver soluções que a
     <td>Biblioteca online gratuita com design criado por mim.</td>
   </tr>
    <tr>
-    <td><a href="ericdalaporta.github.io/lavacar-project/" target="_blank"><b>Lavacar Project</b></a></td>
+    <td><a href="https://ericdalaporta.github.io/lavacar-project/" target="_blank"><b>Lavacar Project</b></a></td>
     <td>Sistema desktop para gerenciar lava-rápido.</td>
   </tr>
   <tr>
