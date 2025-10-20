@@ -18,7 +18,7 @@ Busco constantemente aprimorar minhas habilidades e desenvolver soluções que a
 <img src=https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmoycXVzcWVrY3RlenBuaWx6aGE2eXFlY2owMnlmYzhsZ3AweHRwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m9lWKAzKuUsCJya5w4/giphy.gif width="500"/>
  <sub><i></i></sub>
 
- <p align="center"><i>“Ctrl+C e Ctrl+V é herança cultural do programador moderno.”</i></p>
+ <p align="center"><i>“Ctrl+C e Ctrl+V é a herança cultural do programador moderno.”</i></p>
 <br>
 
 
