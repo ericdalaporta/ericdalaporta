@@ -73,7 +73,7 @@ Busco constantemente aprimorar minhas habilidades e desenvolver soluções que a
   </tr>
   <tr>
     <td><a href="https://ericdalaporta.github.io/task-list/" target="_blank"><b>Quadro de tarefas</b></a></td>
-    <td>Uma task list simples, moderna e fácil de usar</td>
+    <td>Uma task list simples, moderna e fácil de usar.</td>
   </tr>
   <tr>
     <td><a href="https://ericdalaporta.github.io/portal-de-agendamento/" target="_blank"><b>Portal de Agendamento</b></a></td>
