@@ -72,6 +72,10 @@ Busco constantemente aprimorar minhas habilidades e desenvolver soluções que a
     <td>Sistema desktop para gerenciar lava-rápido.</td>
   </tr>
   <tr>
+    <td><a href="https://ericdalaporta.github.io/task-list/" target="_blank"><b>Quadro de tarefas</b></a></td>
+    <td>Uma task list simples e moderna</td>
+  </tr>
+  <tr>
     <td><a href="https://ericdalaporta.github.io/portal-de-agendamento/" target="_blank"><b>Portal de Agendamento</b></a></td>
     <td>Sistema para gerenciamento de ambientes universitários.</td>
   </tr>
@@ -83,6 +87,8 @@ Busco constantemente aprimorar minhas habilidades e desenvolver soluções que a
     <td><a href="https://github.com/ericdalaporta/pixel-plush" target="_blank"><b>Pixel Plush</b></a></td>
     <td>Loja virtual de amigurumis (em produção).</td>
   </tr>
+
+https://ericdalaporta.github.io/task-list/
  
 </table>
  
