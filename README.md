@@ -72,7 +72,7 @@ Busco constantemente aprimorar minhas habilidades e desenvolver soluções que a
     <td>Sistema desktop para gerenciar lava-rápido.</td>
   </tr>
   <tr>
-    <td><a href="https://ericdalaporta.github.io/task-list/" target="_blank"><b>Lista de tarefas coletiva</b></a></td>
+    <td><a href="https://ericdalaporta.github.io/task-list/" target="_blank"><b>Lista de Tarefas Coletiva</b></a></td>
     <td>Uma task list coletiva para gerenciar projetos com uma ou mais pessoa.</td>
   </tr>
   <tr>
