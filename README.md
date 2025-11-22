@@ -80,8 +80,8 @@ Busco constantemente aprimorar minhas habilidades e desenvolver soluções que a
     <td>Sistema para gerenciamento de ambientes universitários.</td>
   </tr>
   <tr>
-    <td><a href="https://ericdalaporta.github.io/presidata-br/" target="_blank"><b>PresiData BR</b></a></td>
-    <td>Site de análise de mandatos presidenciais (em produção).</td>
+    <td><a href="https://ericdalaporta.github.io/presidometro/" target="_blank"><b>Presidômetro</b></a></td>
+    <td>Site de análise de mandatos presidenciais com a possibilidade de compará-los.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/ericdalaporta/pixel-plush" target="_blank"><b>Pixel Plush</b></a></td>
