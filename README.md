@@ -80,7 +80,7 @@ Busco constantemente aprimorar minhas habilidades e desenvolver soluções que a
     <td>Sistema para gerenciamento de ambientes universitários.</td>
   </tr>
   <tr>
-    <td><a href="https://ericdalaporta.github.io/presidometro/" target="_blank"><b>Presidômetro</b></a></td>
+    <td><a href="https://ericdalaporta.github.io/presiDATA/" target="_blank"><b>PresiDATA</b></a></td>
     <td>Site de análise de mandatos presidenciais com a possibilidade de compará-los.</td>
   </tr>
   <tr>
