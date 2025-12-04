@@ -53,7 +53,6 @@ Busco constantemente aprimorar minhas habilidades e desenvolver soluções que a
  
 <br>
 
-
 <table align="center">
   <tr>
     <th>Projeto</th>
@@ -62,6 +61,10 @@ Busco constantemente aprimorar minhas habilidades e desenvolver soluções que a
   <tr>
     <td><a href="https://ericdalaporta.github.io/portfolio/" target="_blank"><b>Meu Portfólio</b></a></td>
     <td>Um site minimalista apresentando meus projetos pessoais e contatos.</td>
+  </tr>
+  <tr>
+    <td><a href="https://confessionario-anonimo.vercel.app/" target="_blank"><b>Confessionário Anônimo</b></a></td>
+    <td>Um Micro-SaaS onde o usuário pode confessar-se anonimamente e receber uma resposta por e-mail por apenas R$ 2,00.</td>
   </tr>
   <tr>
     <td><a href="https://ericdalaporta.github.io/bookshelf/" target="_blank"><b>Bookshelf</b></a></td>
