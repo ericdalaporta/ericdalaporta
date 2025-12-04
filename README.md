@@ -48,7 +48,7 @@ Busco constantemente aprimorar minhas habilidades e desenvolver soluções que a
  <br>
 
 
-<h2 align="center">Coisas úteis que já fiz</h2>
+<h2 align="center">Meus projetos</h2>
 
  
 <br>
