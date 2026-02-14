@@ -7,10 +7,10 @@
 <h1 align="center">Olá! Me chamo Eric</h1>
 
 <p align="center">
-Atualmente, sou estudante de Engenharia de Computação na UFSM em período integral e, ao mesmo tempo,
+Atualmente, sou estudante de Sistemas de Informação na UFSM em período integral e, ao mesmo tempo,
 curso o Técnico em Informática para Internet no período noturno no Politécnico da mesma instituição.
 Tenho grande interesse em Back-end e Inteligência Artificial, mas me desenrolo em Front-end também.
-Busco constantemente aprimorar minhas habilidades e desenvolver soluções que automatizem processos e criem experiências web elegantes e eficientes.
+Busco constantemente aprimorar minhas habilidades e desenvolver soluções que automatizem processos e criem experiências elegantes e eficientes aos usuários.
 </p>
 
 <br>
