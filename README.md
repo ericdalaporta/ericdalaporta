@@ -62,29 +62,30 @@ Busco constantemente aprimorar minhas habilidades e desenvolver soluções que a
     <td><a href="https://ericdalaporta.github.io/portfolio/" target="_blank"><b>Meu Portfólio</b></a></td>
     <td>Um site minimalista com temática de South Park apresentando meus projetos pessoais e contatos.</td>
   </tr>
+    <tr>
+    <td><a href="https://ericdalaporta.github.io/presiDATA/" target="_blank"><b>PresiDATA</b></a></td>
+    <td>Site de análise de mandatos presidenciais com a possibilidade de compará-los.</td>
+  </tr>
   <tr>
     <td><a href="https://confessionario-anonimo.vercel.app/" target="_blank"><b>Confessionário Anônimo</b></a></td>
-    <td>Um Micro-SaaS Mobile First onde o usuário pode confessar-se anonimamente e receber uma resposta por e-mail por apenas R$ 2,00.</td>
+    <td>Um Micro-SaaS Mobile First para confessar-se anonimamente por R$ 2,00 e receber uma resposta.</td>
   </tr>
   <tr>
     <td><a href="https://ericdalaporta.github.io/bookshelf/" target="_blank"><b>Bookshelf</b></a></td>
-    <td>Minha biblioteca online e gratuita com design criado por mim. Ela possui inúmeras recomendações minhas de livros que li.</td>
+    <td>Uma biblioteca online e gratuita com design criado por mim.</td>
   </tr>
    <tr>
     <td><a href="https://ericdalaporta.github.io/lavacar-project/" target="_blank"><b>Lavacar</b></a></td>
-    <td>Sistema desktop para gerenciar lava-rápido.</td>
+    <td>Sistema desktop para gerenciar um lava-rápido.</td>
   </tr>
-  <tr>
-    <td><a href="https://ericdalaporta.github.io/task-list/" target="_blank"><b>Lista de Tarefas</b></a></td>
-    <td>Uma task list pra gerenciar atividades semanais com sistema de pontuação.</td>
-  </tr>
+
   <tr>
     <td><a href="https://ericdalaporta.github.io/portal-de-agendamento/" target="_blank"><b>Portal de Agendamento</b></a></td>
     <td>Sistema para gerenciamento de ambientes universitários.</td>
   </tr>
-  <tr>
-    <td><a href="https://ericdalaporta.github.io/presiDATA/" target="_blank"><b>PresiDATA</b></a></td>
-    <td>Site de análise de mandatos presidenciais com a possibilidade de compará-los.</td>
+    <tr>
+    <td><a href="https://ericdalaporta.github.io/task-list/" target="_blank"><b>Lista de Tarefas</b></a></td>
+    <td>Uma task list pra gerenciar atividades semanais com sistema de pontuação (em produção).</td>
   </tr>
   <tr>
     <td><a href="https://github.com/ericdalaporta/pixel-plush" target="_blank"><b>Pixel Plush</b></a></td>
