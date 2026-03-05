@@ -67,10 +67,6 @@ Busco constantemente aprimorar minhas habilidades e desenvolver soluções que a
     <td>Site de análise de mandatos presidenciais com a possibilidade de compará-los.</td>
   </tr>
   <tr>
-    <td><a href="https://confessionario-anonimo.vercel.app/" target="_blank"><b>Confessionário Anônimo</b></a></td>
-    <td>Um Micro-SaaS Mobile First para confessar-se anonimamente por R$ 2,00 e receber uma resposta.</td>
-  </tr>
-  <tr>
     <td><a href="https://ericdalaporta.github.io/bookshelf/" target="_blank"><b>Bookshelf</b></a></td>
     <td>Uma biblioteca online e gratuita com design criado por mim.</td>
   </tr>
