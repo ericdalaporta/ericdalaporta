@@ -60,7 +60,7 @@ Busco constantemente aprimorar minhas habilidades e desenvolver soluções que a
   </tr>
   <tr>
     <td><a href="https://ericdalaporta.github.io/portfolio/" target="_blank"><b>Meu Portfólio</b></a></td>
-    <td>Um site minimalista com temática de South Park apresentando meus projetos pessoais e contatos.</td>
+    <td>Um site minimalista com temática de South Park apresentando meus projetos.</td>
   </tr>
     <tr>
     <td><a href="https://ericdalaporta.github.io/presiDATA/" target="_blank"><b>PresiDATA</b></a></td>
