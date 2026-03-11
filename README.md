@@ -79,6 +79,10 @@ Busco constantemente aprimorar minhas habilidades e desenvolver soluções que a
     <td><a href="https://ericdalaporta.github.io/portal-de-agendamento/" target="_blank"><b>Portal de Agendamento</b></a></td>
     <td>Sistema para gerenciamento de ambientes universitários.</td>
   </tr>
+   <tr>
+    <td><a href="https://github.com/ericdalaporta/transcricao-universal" target="_blank"><b>Transcrição Universal</b></a></td>
+    <td>MicroSaaS de transcrição de vídeos com inteligência artificial.</td>
+  </tr>
     <tr>
     <td><a href="https://ericdalaporta.github.io/task-list/" target="_blank"><b>Lista de Tarefas</b></a></td>
     <td>Uma task list pra gerenciar atividades semanais com sistema de pontuação (em produção).</td>
