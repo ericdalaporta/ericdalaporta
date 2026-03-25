@@ -27,9 +27,9 @@ Busco constantemente aprimorar minhas habilidades e desenvolver soluções que a
   <tr><th>Competência</th><th>Proficiência</th><th>Área</th></tr>
   <tr><td>HTML, CSS e JavaScript</td><td>⭐⭐⭐⭐⭐</td><td>Front-end</td></tr>
   <tr><td>React</td><td>⭐⭐⭐⭐</td><td>Front-end</td></tr>
-  <tr><td>Angular</td><td>⭐⭐⭐⭐</td><td>Front-end</td></tr>
+  <tr><td>Angular</td><td>⭐⭐</td><td>Front-end</td></tr>
   <tr><td>Tailwind e Boostrap</td><td>⭐⭐⭐⭐⭐</td><td>Front-end</td></tr>
-  <tr><td>Python</td><td>⭐⭐⭐⭐⭐</td><td>Back-end / IA</td></tr>
+  <tr><td>Python</td><td>⭐⭐⭐</td><td>Back-end / IA</td></tr>
   <tr><td>Django</td><td>⭐⭐⭐</td><td>Back-end</td></tr>
   <tr><td>FastAPI</td><td>⭐⭐⭐</td><td>Back-end</td></tr>
   <tr><td>C e C++</td><td>⭐⭐⭐⭐⭐</td><td>Back-end</td></tr>
