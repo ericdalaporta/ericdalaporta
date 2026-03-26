@@ -1,7 +1,6 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient:0:F0F0F0,100:FFFFFF&reversal=true" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient:0:ADD8E6,100:87CEEB&reversal=true" />
 </div>
-
 <div align="center">
 
 <h1 align="center">Olá! Me chamo Eric</h1>
